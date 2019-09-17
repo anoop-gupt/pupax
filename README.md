@@ -2,7 +2,7 @@
 
 An npm module foraccessibility testing using axe-core with Puppeteer
 
-# Initial Version - Not working
+# Initial Version - Limited Functionality working
 # Install
 * To run the example
 *| Ensure Node v8+ is installed and on PATH
