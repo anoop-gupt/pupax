@@ -1,7 +1,7 @@
 {
 	"name": "@anoop-gupt/pupax",
 	"version": "0.0.0",
-	"private": true,
+	"private": false,
 	"main": "main.js",
 	"scripts": {
 		"pupax": "node main.js"
