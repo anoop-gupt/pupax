@@ -10,6 +10,6 @@
 		"axe-core": "^3.3.0",
 		"puppeteer": "^1.6.0"
 	},
-  repository": "https://github.com/anoop-gupt/pupax",
+  "repository": "https://github.com/anoop-gupt/pupax",
   "publishConfig": { "registry": "https://npm.pkg.github.com/@anoop-gupt" }
 }
