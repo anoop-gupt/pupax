@@ -1,6 +1,6 @@
-![pupax-a tool for accessibility testing](/pupax-logo.png)
+![pupax- a tool for accessibility testing](/pupax-logo.png)
 
-An npm module foraccessibility testing using axe-core with Puppeteer
+An npm module for accessibility testing using axe-core with Puppeteer
 
 # Initial Version - Limited Functionality working
 # Install
