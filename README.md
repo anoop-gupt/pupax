@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Welcome to PUPAX 👋
 ![pupax- a tool for accessibility testing](/pupax-logo.png)
 ![Version](https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000)
