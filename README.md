@@ -3,7 +3,7 @@
 ![Version](https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000)
 [![Twitter: anoop__gupta](https://img.shields.io/twitter/follow/anoop__gupta.svg?style=social)](https://twitter.com/anoop__gupta)
 
-> An npm module for accessibility testing using axe-core with Puppeteer.
+> An npm module for accessibility testing using axe-core with Puppeteer. Note: Axe-core® is a trademark of Deque Systems, Inc. in the US and other countries.
 
 ## Install
 
